@@ -4,6 +4,10 @@ Este projeto é uma implementação de um sistema de caixa de supermercado utili
 
 Este fornece uma visão geral do projeto, incluindo sua estrutura, requisitos, instruções de instalação, execução, testes, contribuição, licença, autores e agradecimentos. Sinta-se à vontade para ajustá-lo conforme necessário.
 
+<div align="center">
+<img src="https://app.codacy.com/project/badge/Grade/d5c48b19966a4ada95b9c5706a5b6817" alt="Codacy Badge" />
+</div>
+
 ## Estrutura do Projeto
 
 O projeto está organizado da seguinte forma:
